@@ -3,8 +3,8 @@
 
 int main() {
 	
-// ygs1 puan türü hesaplama
-// türke:1.999
+// ygs1 puan tÃ¼rÃ¼ hesaplama
+// tÃ¼rke:1.999
 // mat: 3,998
 //fen:2.999
 //sos:1
@@ -30,21 +30,6 @@ int main() {
 	puan=mat*3.998+turkce*1.999+sos*1+fen*2.999+taban;
 
 	printf("puaniniz: %f",puan);
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
 	
 	return 0;
 }
