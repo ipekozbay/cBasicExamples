@@ -25,7 +25,7 @@ int main() {
 	scanf("%f",&fen);
 
 	printf("sos netini gir:");
-    scanf("%f",&sos);
+        scanf("%f",&sos);
 
 	puan=mat*3.998+turkce*1.999+sos*1+fen*2.999+taban;
 
