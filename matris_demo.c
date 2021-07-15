@@ -18,7 +18,7 @@ int main() {
 		for(sayi2=0;sayi2<sutun;sayi2++){
 			printf("\n [%d][%d]------->",sayi+1,sayi2+1);
 			scanf("%d",&matris[sayi][sayi2]);
-    	}	
+		}	
 	}
     
 	printf("\n\n olusan matris \n");
